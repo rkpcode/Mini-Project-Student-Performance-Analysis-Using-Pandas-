@@ -61,6 +61,6 @@ The dataset contains test scores of students in **Math, English, and Science**, 
 
 **Rahul Kumar Pradhan**  
 A Data Science & AI enthusiast building a strong foundation for career growth 🚀  
-Feel free to connect on [LinkedIn]
+Feel free to connect on [LinkedIn]https://www.linkedin.com/in/rahul-kumar-pradhan-b62371321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
